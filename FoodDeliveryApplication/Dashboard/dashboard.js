@@ -1,4 +1,4 @@
-const restaurant = [{
+/*const restaurant = [{
     name: "Gyani's Restaurant",
     menu: [{
         item: "Chilli Chicken",
@@ -60,7 +60,7 @@ const restaurant = [{
 }]
 
 
-localStorage.setItem("restaurant", JSON.stringify(restaurant))
+localStorage.setItem("restaurant", JSON.stringify(restaurant))*/
 
 window.onload = function(){
     let searchBtn = document.getElementById("submit")
